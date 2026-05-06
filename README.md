@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Aftab Ahmed 👋
 
-<!--
-**AftabAhmed-max/AftabAhmed-max** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Full Stack Developer & Data Analyst** based in Mumbai, India — building digital products for businesses across India and the Gulf.
 
-Here are some ideas to get you started:
+I'm the founder of **[Stackwork](https://stackwork.netlify.app/)** — a digital agency that helps small and medium businesses get online, build custom apps, and understand their data through automated BI dashboards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ What I Build
+
+- **Websites & Landing Pages** — Next.js, React, HTML/CSS, Tailwind CSS
+- **Mobile & Web Apps** — Flutter, Dart, Node.js
+- **Data & BI Dashboards** — Power BI, Looker Studio, Python, Pandas
+- **Business Setup** — Google Workspace, Domain, Hosting, SEO
+
+---
+
+## 🚀 Live Projects
+
+| Project | Description | Live |
+|---|---|---|
+| Stackwork | Digital agency portfolio website | [stackwork.netlify.app](https://stackwork.netlify.app/) |
+| Ember & Ash | Fine dining restaurant website | [ember-ash-zeta.vercel.app](https://ember-ash-zeta.vercel.app/) |
+| Laundry App | Flutter laundry order management app | See Releases |
+
+---
+
+## 💼 Experience
+
+- **Technical Assistant** at ABJ Engineering — on-site at Kuwait Oil Company
+- Built Power BI dashboards with SCADA operational data
+- Integrated dashboards into web interfaces using HTML/CSS/JS
+- Automated Excel reports using Power Query
+
+---
+
+## 🎓 Education
+
+B.Sc. Computer Science — University of Mumbai
+
+---
+
+## 📬 Get in Touch
+
+- 🌐 [stackwork.netlify.app](https://stackwork.netlify.app/)
+- 💼 [LinkedIn](www.linkedin.com/in/aftabahmed-dataanalyst)
+- 📧 Reach me through [Stackwork Contact](https://stackwork.netlify.app/contact)
