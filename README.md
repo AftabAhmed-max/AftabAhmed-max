@@ -21,7 +21,7 @@ I'm the founder of **[Stackwork](https://stackwork.netlify.app/)** — a digital
 |---|---|---|
 | Stackwork | Digital agency portfolio website | [stackwork.netlify.app](https://stackwork.netlify.app/) |
 | Ember & Ash | Fine dining restaurant website | [ember-ash-zeta.vercel.app](https://ember-ash-zeta.vercel.app/) |
-| Meridian Properties | Premium Gulf real estate agency website | [Live Site](https://meridian-properties-eta.vercel.app/) |
+| Meridian Properties | Premium Gulf real estate agency website | [meridian-properties-eta.vercel.app](https://meridian-properties-eta.vercel.app/) |
 | Laundry App | Flutter laundry order management app | See Releases |
 
 ---
