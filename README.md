@@ -19,7 +19,7 @@ I'm the founder of **[Stackwork](https://stackwork.netlify.app/)** — a digital
 
 | Project | Description | Live |
 |---|---|---|
-| Stackwork | Digital agency portfolio website | [stackwork.netlify.app](https://stackwork.netlify.app/) |
+| Stackwork | Digital agency portfolio website | [stackwork-beta.vercel.app](https://stackwork-beta.vercel.app/) |
 | Ember & Ash | Fine dining restaurant website | [ember-ash-zeta.vercel.app](https://ember-ash-zeta.vercel.app/) |
 | Meridian Properties | Premium Gulf real estate agency website | [meridian-properties-eta.vercel.app](https://meridian-properties-eta.vercel.app/) |
 | Maison Celeste | Cinematic boutique hotel website with booking system | [maison-celeste.vercel.app](https://maison-celeste.vercel.app/) |
