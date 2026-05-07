@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Developer & Data Analyst** based in Mumbai, India — building digital products for businesses across India and the Gulf.
 
-I'm the founder of **[Stackwork](https://stackwork.netlify.app/)** — a digital agency that helps small and medium businesses get online, build custom apps, and understand their data through automated BI dashboards.
+I'm the founder of **[Stackwork](https://stackwork-beta.vercel.app/)** — a digital agency that helps small and medium businesses get online, build custom apps, and understand their data through automated BI dashboards.
 
 ---
 
