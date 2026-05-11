@@ -23,6 +23,7 @@ I'm the founder of **[Stackwork](https://stackwork-beta.vercel.app/)** — a dig
 | Ember & Ash | Fine dining restaurant website | [ember-ash-zeta.vercel.app](https://ember-ash-zeta.vercel.app/) |
 | Meridian Properties | Premium Gulf real estate agency website | [meridian-properties-eta.vercel.app](https://meridian-properties-eta.vercel.app/) |
 | Maison Celeste | Cinematic boutique hotel website with booking system | [maison-celeste.vercel.app](https://maison-celeste.vercel.app/) |
+| Crochetinggg | Full stack e-commerce site for a handmade crochet business | [cozycrochets.site](https://www.cozycrochets.site/) |
 | Laundry App | Flutter laundry order management app | See Releases |
 
 ---
