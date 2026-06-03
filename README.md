@@ -26,6 +26,7 @@ I'm the founder of **[Stackwork](https://stackwork-beta.vercel.app/)** — a dig
 | Crochetinggg | Full stack e-commerce site for a handmade crochet business | [cozycrochets.site](https://www.cozycrochets.site/) |
 | Sèvres & Co. | Full stack luxury salon booking web app with Supabase auth and admin dashboard | [sevres.vercel.app](https://sevres.vercel.app/) |
 | Dealwise | Full stack CRM with Kanban pipeline, contacts, and analytics | [dealwise-beta.vercel.app](https://dealwise-beta.vercel.app/) |
+| Atelier Noir | Premium interior & furniture studio business website | [atelier-noir.vercel.app](https://atelier-noir.vercel.app/) |
 | Laundry App | Flutter laundry order management app | See Releases |
 
 ---
