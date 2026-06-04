@@ -28,6 +28,7 @@ I'm the founder of **[Stackwork](https://stackwork-beta.vercel.app/)** — a dig
 | Dealwise | Full stack CRM with Kanban pipeline, contacts, and analytics | [dealwise-beta.vercel.app](https://dealwise-beta.vercel.app/) |
 | Atelier Noir | Premium interior & furniture studio business website | [atelier-noir.vercel.app](https://atelier-noir.vercel.app/) |
 | Daily Basket | A Zepto-style online supermarket | [daily-basket-pi.vercel.app](https://daily-basket-pi.vercel.app/) |
+| StoreOps | A unified store back-office dashboard for retail & e-commerce. | [storeops.vercel.app/](https://storeops-rho.vercel.app/) |
 | Laundry App | Flutter laundry order management app | See Releases |
 
 ---
