@@ -51,5 +51,4 @@ B.Sc. Computer Science — University of Mumbai
 ## 📬 Get in Touch
 
 - 🌐 [stackworkhq.com](https://stackworkhq.com)
-- 💼 [LinkedIn](www.linkedin.com/in/aftabahmed-dataanalyst)
 - 📧 Reach me through [Stackwork Contact](https://stackwork-beta.vercel.app/contact)
