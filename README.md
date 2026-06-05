@@ -2,7 +2,7 @@
 
 I'm a **Full Stack Developer & Data Analyst** based in Mumbai, India — building digital products for businesses across India and the Gulf.
 
-I'm the founder of **[Stackwork](https://stackwork-beta.vercel.app/)** — a digital agency that helps small and medium businesses get online, build custom apps, and understand their data through automated BI dashboards.
+I'm the founder of **[Stackwork](https://stackworkhq.com)** — a digital agency that helps small and medium businesses get online, build custom apps, and understand their data through automated BI dashboards.
 
 ---
 
@@ -19,7 +19,6 @@ I'm the founder of **[Stackwork](https://stackwork-beta.vercel.app/)** — a dig
 
 | Project | Description | Live |
 |---|---|---|
-| Stackwork | Digital agency portfolio website | [stackwork-beta.vercel.app](https://stackwork-beta.vercel.app/) |
 | Ember & Ash | Fine dining restaurant website | [ember-ash-zeta.vercel.app](https://ember-ash-zeta.vercel.app/) |
 | Meridian Properties | Premium Gulf real estate agency website | [meridian-properties-eta.vercel.app](https://meridian-properties-eta.vercel.app/) |
 | Maison Celeste | Cinematic boutique hotel website with booking system | [maison-celeste.vercel.app](https://maison-celeste.vercel.app/) |
@@ -29,6 +28,7 @@ I'm the founder of **[Stackwork](https://stackwork-beta.vercel.app/)** — a dig
 | Atelier Noir | Premium interior & furniture studio business website | [atelier-noir.vercel.app](https://atelier-noir.vercel.app/) |
 | Daily Basket | A Zepto-style online supermarket | [daily-basket-pi.vercel.app](https://daily-basket-pi.vercel.app/) |
 | StoreOps | A unified store back-office dashboard for retail & e-commerce. | [storeops.vercel.app/](https://storeops-rho.vercel.app/) |
+| PeopleDesk | Role-based HR self-service portal | [peopledesk.vercel.app/](https://peopledesk.vercel.app/) |
 | Laundry App | Flutter laundry order management app | See Releases |
 
 ---
