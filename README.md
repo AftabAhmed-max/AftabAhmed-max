@@ -29,6 +29,7 @@ I'm the founder of **[Stackwork](https://stackworkhq.com)** — a digital agency
 | Daily Basket | A Zepto-style online supermarket | [daily-basket-pi.vercel.app](https://daily-basket-pi.vercel.app/) |
 | StoreOps | A unified store back-office dashboard for retail & e-commerce. | [storeops.vercel.app/](https://storeops-rho.vercel.app/) |
 | PeopleDesk | Role-based HR self-service portal | [peopledesk.vercel.app/](https://peopledesk.vercel.app/) |
+| InsightIQ | AI-powered business intelligence dashboard | [insightiq-jet.vercel.app/](https://insightiq-jet.vercel.app/) |
 | Laundry App | Flutter laundry order management app | See Releases |
 
 ---
