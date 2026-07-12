@@ -1,55 +1,36 @@
-# Hi, I'm Aftab Ahmed 👋
+This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
-I'm a **Full Stack Developer & Data Analyst** based in Mumbai, India — building digital products for businesses across India and the Gulf.
+## Getting Started
 
-I'm the founder of **[Stackwork](https://stackworkhq.com)** — a digital agency that helps small and medium businesses get online, build custom apps, and understand their data through automated BI dashboards.
+First, run the development server:
 
----
+```bash
+npm run dev
+# or
+yarn dev
+# or
+pnpm dev
+# or
+bun dev
+```
 
-## 🛠️ What I Build
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-- **Websites & Landing Pages** — Next.js, React, HTML/CSS, Tailwind CSS
-- **Mobile & Web Apps** — Flutter, Dart, Node.js
-- **Data & BI Dashboards** — Power BI, Looker Studio, Python, Pandas
-- **Business Setup** — Google Workspace, Domain, Hosting, SEO
+You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
----
+This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## 🚀 Live Projects
+## Learn More
 
-| Project | Description | Live |
-|---|---|---|
-| Ember & Ash | Fine dining restaurant website | [ember-ash-zeta.vercel.app](https://ember-ash-zeta.vercel.app/) |
-| Meridian Properties | Premium Gulf real estate agency website | [meridian-properties-eta.vercel.app](https://meridian-properties-eta.vercel.app/) |
-| Maison Celeste | Cinematic boutique hotel website with booking system | [maison-celeste.vercel.app](https://maison-celeste.vercel.app/) |
-| Crochetinggg | Full stack e-commerce site for a handmade crochet business | [cozycrochets.site](https://www.cozycrochets.site/) |
-| Sèvres & Co. | Full stack luxury salon booking web app with Supabase auth and admin dashboard | [sevres.vercel.app](https://sevres.vercel.app/) |
-| Dealwise | Full stack CRM with Kanban pipeline, contacts, and analytics | [dealwise-beta.vercel.app](https://dealwise-beta.vercel.app/) |
-| Atelier Noir | Premium interior & furniture studio business website | [atelier-noir.vercel.app](https://atelier-noir.vercel.app/) |
-| Daily Basket | A Zepto-style online supermarket | [daily-basket-pi.vercel.app](https://daily-basket-pi.vercel.app/) |
-| StoreOps | A unified store back-office dashboard for retail & e-commerce. | [storeops.vercel.app/](https://storeops-rho.vercel.app/) |
-| PeopleDesk | Role-based HR self-service portal | [peopledesk.vercel.app/](https://peopledesk.vercel.app/) |
-| InsightIQ | AI-powered business intelligence dashboard | [insightiq-jet.vercel.app/](https://insightiq-jet.vercel.app/) |
-| Laundry App | Flutter laundry order management app | See Releases |
+To learn more about Next.js, take a look at the following resources:
 
----
+- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
+- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-## 💼 Experience
+You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
 
-- **Technical Assistant** at ABJ Engineering — on-site at Kuwait Oil Company
-- Built Power BI dashboards with SCADA operational data
-- Integrated dashboards into web interfaces using HTML/CSS/JS
-- Automated Excel reports using Power Query
+## Deploy on Vercel
 
----
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-## 🎓 Education
-
-B.Sc. Computer Science — University of Mumbai
-
----
-
-## 📬 Get in Touch
-
-- 🌐 [stackworkhq.com](https://stackworkhq.com)
-- 📧 Reach me through [Stackwork Contact](https://stackwork-beta.vercel.app/contact)
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
